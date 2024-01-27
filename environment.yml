@@ -2,8 +2,9 @@ name: EmoCau
 channels:
   - defaults
 dependencies:
+  - pip
   - python=3.6
-  - pytorch=1.2.0
+  - pytorch
   - scipy
   - scikit-learn
   - pip:
